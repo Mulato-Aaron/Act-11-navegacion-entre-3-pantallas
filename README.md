@@ -13,7 +13,8 @@ This project is a starting point for a Flutter application.
 <img width="477" height="791" alt="image" src="https://github.com/user-attachments/assets/4b460a72-d58f-4826-8fb3-8b21b64c7f5b" />
 <img width="979" height="798" alt="image" src="https://github.com/user-attachments/assets/41f732dc-36a2-4367-9569-2d25ad950372" />
 <img width="984" height="798" alt="image" src="https://github.com/user-attachments/assets/18ddfd1f-9524-4ec0-8fe2-85cc10e9b5a6" />
-<img width="1050" height="791" alt="image" src="https://github.com/user-attachments/assets/5ca72fc9-3672-4f81-ac27-cfa1a1d67255" />
+<img width="984" height="799" alt="image" src="https://github.com/user-attachments/assets/82de291c-b946-40b9-868d-48b38bd7e361" />
+
 
 A few resources to get you started if this is your first Flutter project:
 
